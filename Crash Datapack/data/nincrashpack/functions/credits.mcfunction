@@ -1,0 +1,1 @@
+tellraw @a ["",{"text":"\n\nThis "},{"text":"Datapack ","color":"blue"},{"text":"was made by "},{"text":"NIN1275","color":"red","clickEvent":{"action":"open_url","value":"https://www.youtube.com/@nin1275"},"hoverEvent":{"action":"show_text","contents":"Go to NIN1275 YT"}},{"text":"!"}]
